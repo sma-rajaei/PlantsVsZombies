@@ -112,11 +112,11 @@ Players can send any one of the four available emojis to their opponent during t
 
 **Course:** Advanced Programming  
 **University:** Isfahan University of Technology
-**Professor:**  Ali Iranidoost
+
+**Lecturer:**  Ali Iranidoost
 
 **Teaching Assistants:**
-Mahrokh Mousavi
-Saba Rafiei
+Mahrokh Mousavi,  Saba Rafiei
 
 # Acknowledgements
 
