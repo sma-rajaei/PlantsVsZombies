@@ -18,8 +18,10 @@ The game provides a complete user experience, from account creation and authenti
 
 ## Client-Server Connection
 
-- Players connect to the game by entering the server IP address and port number.
-- The game uses a client-server architecture to manage multiplayer communication.
+This game uses a client-server architecture to manage multiplayer communication.
+Players connect to the local server by entering the server IP address and port number:
+**IP : 127.0.0.1
+Port : 12345**
 
 <img width="1512" height="802" alt="Start Connection Page" src="https://github.com/user-attachments/assets/b320cc2c-f22a-4aa5-936d-9c0c6f7f9c55" />
 
@@ -27,75 +29,65 @@ The game provides a complete user experience, from account creation and authenti
 
 ## User Authentication System
 
-### Players can: ###
+### Players can:
 
-### Create a new account: ###
+### Create A New Account:
 
 <img width="1217" height="774" alt="Signup Page" src="https://github.com/user-attachments/assets/684b6cbe-ea7b-442e-86c4-8ecc114291f3" />
 
-### Log in using an existing account: ###
+### Login To An Existing Account:
   
 <img width="1514" height="784" alt="Authorization Page" src="https://github.com/user-attachments/assets/8d3a232b-874c-4b10-8766-18912b7ceead" />
 
-### Recover forgotten passwords using their registered phone number: ###
+### Recover Forgotten passwords Using Their Registered Phone number:
 
 <img width="1489" height="805" alt="image" src="https://github.com/user-attachments/assets/aa14b545-5200-4e7c-8664-36d71f333346" />
 
-
-- Update their accounts' information.
 
 -------
 
 ## Main Menu
 
-After logging in, players can access:
+<img width="1241" height="791" alt="Main Menu" src="https://github.com/user-attachments/assets/13ed8525-0b63-4fb7-b1b0-8860e0e910ba" />
 
-- Start a multiplayer game.
-- Send a game request to another player.
-- View account information.
-- Update profile details.
-- View match history, including wins and losses.
-- Log out from the account.
+### Play
 
--------
+**Multiplayer Matchmaking :** By clicking this button, players can start a multiplayer match by sending a game request to other players' who are connected to the server.
+If opponent accepts the requesst, the multiplayer game starts.
 
-## Multiplayer Matchmaking
+### Change Account Information
 
-- A player can send a game request to another player.
-- The opponent can accept or reject the request.
-- After acceptance, the multiplayer game starts.
+<img width="1178" height="784" alt="Change Account Information" src="https://github.com/user-attachments/assets/e9ae65e7-4f07-450c-97ff-dbc128df3743" />
 
--------
+
+### View Match History (Wins & Losses)
+
+### Log Out From The Account (Return To The Authentication Page) 
+
 
 # Gameplay
 
 ## Match System
 
-- Each match consists of multiple rounds.
-- Players compete until one player achieves **two round victories**.
-- Player roles are swapped between rounds to provide a fair gameplay experience.
-
--------
+- Each match consists of 2 or 3 rounds
+- Players compete until one player achieves **2 Won Rounds**
+- Player roles are swapped between rounds to provide a fair gameplay experience
+  
 
 ## Game Mechanics
 
 The gameplay includes several elements inspired by Plants vs. Zombies, including:
 
-- Custom-designed game rules.
-- Animated graphical elements.
-- Resource and loot management system.
-- Strategic gameplay mechanics.
-- Real-time player interactions.
+- Custom-designed game rules
+- Animated graphical elements
+- Resource and loot management system
+- Strategic gameplay mechanics
+- Real-time player interactions
 
--------
-
-## Emotion System
+## Emotion and Communication System
 
 To improve communication between players during gameplay, an emotion system was implemented.
-
-Players can send one of four available emojis/emotes to their opponent during the match.
-
--------
+Players can send any one of the four available emojis to their opponent during the match.
 
 # Technologies Used
 
@@ -104,27 +96,17 @@ Players can send one of four available emojis/emotes to their opponent during th
 - **Database:** Local Database Storage
 - **Architecture:** Client-Server Model
 
--------
-
 # Course Information
 
 **Course:** Advanced Programming  
 **University:** Isfahan University of Technology
-
-**Professor:**  
-- Ali Iranidoost
+**Professor:**  Ali Iranidoost
 
 **Teaching Assistants:**
-- Mahrokh Mousavi
-- Saba Rafiei
-
--------
-All have been added to the repository collaborators section.
-
--------
+Mahrokh Mousavi
+Saba Rafiei
 
 # Acknowledgements
 
-Special thanks to the course professor and teaching assistants for their guidance and support throughout the development of this project.
-
-*The project also has windows installer that did'nt uploaded on github.
+*The project also has a windows installer that did'nt uploaded on github.
+Size After Installation : ~ 156 MB
