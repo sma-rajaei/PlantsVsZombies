@@ -21,17 +21,28 @@ The game provides a complete user experience, from account creation and authenti
 - Players connect to the game by entering the server IP address and port number.
 - The game uses a client-server architecture to manage multiplayer communication.
 
+<img width="1512" height="802" alt="Start Connection Page" src="https://github.com/user-attachments/assets/b320cc2c-f22a-4aa5-936d-9c0c6f7f9c55" />
+
 -------
 
 ## User Authentication System
 
-Players can:
+### Players can: ###
 
-- Create a new account.
-- Log in using an existing account.
-- Store account information in a local database.
-- Recover forgotten passwords using their registered phone number.
-- Update their account information.
+### Create a new account: ###
+
+<img width="1217" height="774" alt="Signup Page" src="https://github.com/user-attachments/assets/684b6cbe-ea7b-442e-86c4-8ecc114291f3" />
+
+### Log in using an existing account: ###
+  
+<img width="1514" height="784" alt="Authorization Page" src="https://github.com/user-attachments/assets/8d3a232b-874c-4b10-8766-18912b7ceead" />
+
+### Recover forgotten passwords using their registered phone number: ###
+
+<img width="1489" height="805" alt="image" src="https://github.com/user-attachments/assets/aa14b545-5200-4e7c-8664-36d71f333346" />
+
+
+- Update their accounts' information.
 
 -------
 
