@@ -52,8 +52,11 @@ Port : 12345**
 
 ### Play
 
-**Multiplayer Matchmaking :** By clicking this button, players can start a multiplayer match by sending a game request to other players' who are connected to the server.
+**Multiplayer Matchmaking :** By clicking this button, players can start a multiplayer match by sending a game request to the other player connected to the server.
 If opponent accepts the requesst, the multiplayer game starts.
+
+<img width="393" height="321" alt="Match Invitation" src="https://github.com/user-attachments/assets/ed09161b-7871-4b67-b1f6-a6e7159a9e17" />
+
 
 ### Change Account Information
 
@@ -67,12 +70,19 @@ If opponent accepts the requesst, the multiplayer game starts.
 
 # Gameplay
 
+## Plants' Side:
+
+<img width="969" height="585" alt="Plant Side Gameplay" src="https://github.com/user-attachments/assets/e7bdc5c2-f03f-438b-9ce2-441636185344" />
+
+## Zombies' Side:
+
+<img width="965" height="578" alt="Zombie Side Gameplay" src="https://github.com/user-attachments/assets/6a2c04da-c46e-4d07-97a9-8d5854f7954e" />
+
 ## Match System
 
 - Each match consists of 2 or 3 rounds
 - Players compete until one player achieves **2 Won Rounds**
 - Player roles are swapped between rounds to provide a fair gameplay experience
-  
 
 ## Game Mechanics
 
@@ -88,6 +98,8 @@ The gameplay includes several elements inspired by Plants vs. Zombies, including
 
 To improve communication between players during gameplay, an emotion system was implemented.
 Players can send any one of the four available emojis to their opponent during the match.
+
+
 
 # Technologies Used
 
