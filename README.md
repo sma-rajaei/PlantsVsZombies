@@ -88,8 +88,8 @@ If opponent accepts the requesst, the multiplayer game starts.
 
 The gameplay includes several elements inspired by Plants vs. Zombies, including:
 
-- Custom-designed game rules
 - Animated graphical elements
+- Custom-designed game rules
 - Resource and loot management system
 - Strategic gameplay mechanics
 - Real-time player interactions
