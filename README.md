@@ -3,10 +3,11 @@
 > To install the game on Windows, please download the setup file directly from the link below:
 > 
 > 👉 **[Download Setup.exe](https://github.com/sma-rajaei/PlantsVsZombies/releases/download/Setup/Setup.exe)**
+> ⚠️ Important Note:
+If you encounter any missing .dll errors during installation, ensure that you download and install the required runtime files (.dll) mentioned in the your Windows error message, and then install and enjoy the game.
+
 
 # Plants vs. Zombies 
-
-
 
 A two-player multiplayer strategy game inspired by **Plants vs. Zombies**, developed in **C++ using Qt Framework** as the final project for the Advanced Programming course at Isfahan University of Technology.
 
@@ -125,8 +126,3 @@ Players can send any one of the four available emojis to their opponent during t
 **Lecturer:**  Ali Iranidoost
 
 **Teaching Assistants:** Mahrokh Mousavi,  Saba Rafiei
-
-# Acknowledgements
-
-*The project also has a windows installer that did'nt uploaded on github.
-Size After Installation : ~ 156 MB
