@@ -1,4 +1,4 @@
-> [!]
+> [!TIP]
 > ### 📥 Windows Installation
 > To install the game on Windows, please download the setup file directly from the link below:
 > 
