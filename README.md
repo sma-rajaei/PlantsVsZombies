@@ -1,6 +1,6 @@
 > [!TIP]
 > ### 📥 Windows Installation
-> To install the game on Windows, please download the setup file directly from the link below:
+> To install the game on Windows, download the setup file directly from the link below:
 > 
 > 👉 **[Download Setup.exe](https://github.com/sma-rajaei/PlantsVsZombies/releases/download/Setup/Setup.exe)**
 >
